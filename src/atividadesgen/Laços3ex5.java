@@ -27,7 +27,7 @@ public class Laços3ex5 {
                 System.out.println("Programa encerrado!");
                 break;
             } else {
-                System.out.println("Digite outro valor (ou '0' para encerrar):");
+                System.out.println("Digitee outro valor (ou '0' para encerrar):");
             }
       
 		}
